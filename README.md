@@ -16,7 +16,7 @@ We put on our disco shoes and danced our way through the development process! �
 🌈 Integrating all our tech was like choreographing the perfect dance routine – took practice!
 🎶 Balancing fun and functionality was like mixing the perfect disco track – we think we nailed it!
 
-**🧠 What we learned
+**🧠 What we learned**
 🤝 Teamwork makes the dream work (and the disco ball spin)!
 🚀 How to scale our app faster than John Travolta's dance moves!
 🎨 UX design is key – our app needs to look as good as platform shoes!
